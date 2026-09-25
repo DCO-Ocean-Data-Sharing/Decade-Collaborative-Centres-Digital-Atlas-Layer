@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DCCs_layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": "44.49686", "Longitude": "11.3524", "Country": "Italy", "DCO DCC": "Decade Collaborative Centre for Coastal Resilience (DCC-CR)", "Institution": "University of Bologna", "Website": "https://centri.unibo.it/dcc-cr/en" }, "geometry": { "type": "Point", "coordinates": [ 11.3524, 44.49686 ] } },
+{ "type": "Feature", "properties": { "Latitude": "43.57156", "Longitude": "1.47795", "Country": "France", "DCO DCC": "Decade Collaborative Centre for Ocean Prediction (DCC-OP)", "Institution": "Mercator Ocean International", "Website": "https://www.unoceanprediction.org/en/homepage" }, "geometry": { "type": "Point", "coordinates": [ 1.47795, 43.57156 ] } },
+{ "type": "Feature", "properties": { "Latitude": "36.10229", "Longitude": "120.45922", "Country": "China", "DCO DCC": "Decade Collaborative Centre for Ocean-Climate Nexus", "Institution": "First Institute of Oceanography (FIO) of the Ministry of Natural Resources of China", "Website": " in partnership with the International CLImate VAriability Research Project Office (CLIVAR-ICPO)" }, "geometry": { "type": "Point", "coordinates": [ 120.45922, 36.10229 ] } },
+{ "type": "Feature", "properties": { "Latitude": "41.36797", "Longitude": "2.18705", "Country": "Spain", "DCO DCC": "Decade Collaborative Centre for Sustainable Ocean Economy", "Institution": "Barcelona City Council", "Website": "https://www.barcelonacapitalnautica.org/en/sustainable-ocean-economy/" }, "geometry": { "type": "Point", "coordinates": [ 2.18705, 41.36797 ] } },
+{ "type": "Feature", "properties": { "Latitude": "-22.30215", "Longitude": "166.44275", "Country": "New Caledonia", "DCO DCC": "Decade Collaborative Centre for the Pacific Islands Region of the Pacific Ocean", "Institution": "Pacific Community (SPC)", "Website": "https://pccos.spc.int/work-areas/un-decade-ocean-science " }, "geometry": { "type": "Point", "coordinates": [ 166.44275, -22.30215 ] } },
+{ "type": "Feature", "properties": { "Latitude": "17.52816", "Longitude": "78.40013", "Country": "India", "DCO DCC": "Decade Collaborative Centre for the Indian Ocean Region (DCC-IOR)", "Institution": "Indian National Centre for Ocean Information Services (INCOIS)", "Website": "https://www.incois.gov.in/IIW/DCCIOR/index.jsp " }, "geometry": { "type": "Point", "coordinates": [ 78.40013, 17.52816 ] } },
+{ "type": "Feature", "properties": { "Latitude": "52.19834", "Longitude": "0.1263", "Country": "United Kingdom of Great Britain and Northern Ireland (UK)", "DCO DCC": "Decade Collaborative Centre for the Southern Ocean Region", "Institution": "Scientific Committee on Antarctic Research (SCAR)", "Website": "https://scar.org/science/collaborations/un-decade " }, "geometry": { "type": "Point", "coordinates": [ 0.1263, 52.19834 ] } }
+]
+}
